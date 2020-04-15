@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491752714901",
+    "firebase_url": "https://maktbte-17d37.firebaseio.com",
+    "project_id": "maktbte-17d37",
+    "storage_bucket": "maktbte-17d37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491752714901:android:c4077747578d6a3e12219c",
+        "android_client_info": {
+          "package_name": "com.hema.maktbte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491752714901-sakfcaut05g8pdpp4dbkv3k3oj93srh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwun50DAMwhlo3Ool1yNbjuQd22izh-TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491752714901-sakfcaut05g8pdpp4dbkv3k3oj93srh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
