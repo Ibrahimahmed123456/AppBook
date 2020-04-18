@@ -1,0 +1,2 @@
+const kpagespacing = 30.0;
+const kprimarycolor = 0xff4a65dc;
